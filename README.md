@@ -7,3 +7,9 @@ The goal of this project is to track a computer vision model like iNaturalist th
 Only 1 cat and same cat
 Extract Regions of Interest: Extract the cat from the image using semantic segmentation using the Unet Segmentation Tensorflow Model
 Binary Classification: Identify the regions of the image if pixel is cat or not through Support Vector Machine (SVN) algorithm
+
+
+2nd task:
+60 images of same snowy egret
+Extract Regions of Interest: Extract the snowy egret from the image using semantic segmentation using the Unet Segmentation Tensorflow Model
+Binary Classification: Identify the regions of the image if pixel is snowy egret or not through Support Vector Machine (SVN) algorithm

@@ -1,11 +1,11 @@
 # CSE168AI-MLDistributed-Tensorflow-Project-Student-Naturalist-
-![MerlinIDRecreateDiagram](https://github.com/user-attachments/assets/44c91eed-c21e-4709-9f74-aece73299820)
 This is a project with Amy Chan, Javier Quiroz Aldana, Ishita Prakash, and Jennifer Lugo from UC Merced's CSE168 Distributed Systems class taught by Professor Xiaoyi Lu lab part two using a custom dataset and custom tensorflow model.
 
 The goal of this project is to recreating [iNaturalist's Computer Vision Demo](https://www.inaturalist.org/pages/computer_vision_demo) using the information provided through this website by  using instance segmentation and semantic segmentation (2 approaches) to conduct object detection and image classification of wildlife. 
 
 We are currently working on managing to reverse engineer Merlin Bird ID's as the first step by idenitfying bird species with the support of [UC Merced's Bird Seekers and Ornithological Naturalist Group](https://ucmerced.presence.io/organization/bird-seekers-and-ornithological-naturalist-group) to support their club and other campus groups such as the Merced Vernal Pools & Natural Grassland Species Reserve through developing a web application for detecting bird species at UC Merced Campus and Merced Vernal Pools & Grassland Reserve.
 
+![MerlinIDRecreateDiagram](https://github.com/user-attachments/assets/44c91eed-c21e-4709-9f74-aece73299820)
 
 Merlin EBird ID Phase 1:
 * 60 images of same snowy egret

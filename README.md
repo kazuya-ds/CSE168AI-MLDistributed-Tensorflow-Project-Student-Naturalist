@@ -1,4 +1,5 @@
 # CSE168AI-MLDistributed-Tensorflow-Project-Student-Naturalist-
+![MerlinIDRecreateDiagram](https://github.com/user-attachments/assets/44c91eed-c21e-4709-9f74-aece73299820)
 This is a project with Amy Chan, Javier Quiroz Aldana, Ishita Prakash, and Jennifer Lugo from UC Merced's CSE168 Distributed Systems class taught by Professor Xiaoyi Lu lab part two using a custom dataset and custom tensorflow model.
 
 The goal of this project is to recreating [iNaturalist's Computer Vision Demo](https://www.inaturalist.org/pages/computer_vision_demo) using the information provided through this website by  using instance segmentation and semantic segmentation (2 approaches) to conduct object detection and image classification of wildlife. 
@@ -18,6 +19,7 @@ Bonus Feature for possible future development...
 
 Bonus Feature for possible future development...
 INaturalist Phase 2:
+
 * Only 1 cat and same cat
 * Extract Regions of Interest: Extract the cat from the image using semantic segmentation using the Unet Segmentation Tensorflow Model
 * Binary Classification: Identify the regions of the image if pixel is cat or not through Support Vector Machine (SVN) algorithm
